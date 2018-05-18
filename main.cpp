@@ -59,4 +59,7 @@ public:
     void ChangeStatus(void articlle);
 };
 
+int main(){
+cout<<"git";
 
+}
